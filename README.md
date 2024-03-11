@@ -1,13 +1,15 @@
 # Ficha de Programação e Sistemas de Informação - Módulo 11
 
-Cria um repositório **privado** no GitHub com o nome **"PSI_Ficha_M11"** e com um ficheiro **README**. Faz ***clone*** do mesmo para o teu computador.
+Cria um repositório **privado** no GitHub com o nome **"PSI_Ficha_M11"** e com um ficheiro **README**.
 
-Preenche o **README** localmente com as respostas dos exercícios, e seguidamente, faz ***push*** das atualizações.
+Podes fazer clone do repositório para o teu computador (ou para o Replit) e preencher o README localmente (ou no Replit) com as respostas dos exercícios. Seguidamente, terás de fazer commit e push das atualizações.
+
+Alternativamente, podes preencher o ficheiro README diretamente no GitHub. A partir da página principal do repositório, clica em "Edit File" (ícone representando um lápis). Com o README preenchido, carrega no botão "Commit Changes".
 
 Para entregar a ficha, acede a [este link](https://docs.google.com/spreadsheets/d/1DrdGnICVAA8q9bs9_LAURFKoReAO7jJGB8qqvUWacL0/edit?usp=sharing) (separador **Ficha Módulo 11**), e mete o **URL** do teu repositório ao lado do teu nome.
 No teu repositório, acede a "Settings -> Collaborators" e adiciona o utilizador "Manuel Geraldes" para ter acesso.
 
-## Exercício 1 - Para cada afirmação sobre tratamento de erros em C#, indica se é **Verdadeira** ou **Falsa**. Justifica a tua resposta. (3v)
+## Exercício 1 - Para cada afirmação sobre tratamento de erros em C#, indica se é **Verdadeira** ou **Falsa**. Justifica a tua resposta. (6v)
 
 1. Exceções são usadas para lidar com situações inesperadas que podem ocorrer durante a execução de um programa.
 2. O bloco 'try' é usado para prevenir uma exceção.
@@ -23,7 +25,7 @@ No teu repositório, acede a "Settings -> Collaborators" e adiciona o utilizador
 3. Uma stream pode ser fechada de forma explícita ou implícita.
 4. A classe 'GZipStream' é usada tanto para comprimir como descomprimir *streams* de dados.
 
-## Exercício 3 - Escreve o código necessário para criar um programa em C# de acordo com as seguintes instruções: (7v)
+## Exercício 3 - Escreve o código necessário para criar um programa em C# de acordo com as seguintes instruções: (10v)
 
 - O programa deve aceitar como único argumento da linha de comandos um nome de ficheiro de texto e imprimir os conteúdos desse ficheiro no ecrã.
 - O programa deve tratar separadamente todas as exceções que podem ocorrer quando o ficheiro é aberto para leitura, apresentando uma mensagem de erro adequada em cada caso.
