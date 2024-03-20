@@ -11,19 +11,19 @@ No teu repositório, acede a "Settings -> Collaborators" e adiciona o utilizador
 
 ## Exercício 1 - Para cada afirmação sobre tratamento de erros em C#, indica se é **Verdadeira** ou **Falsa**. Justifica a tua resposta. (6v)
 
-1. Exceções são usadas para lidar com situações inesperadas que podem ocorrer durante a execução de um programa.
-2. O bloco 'try' é usado para prevenir uma exceção.
-3. Um bloco 'catch' tem de ser sempre usado imediatamente depois de um bloco 'try'.
-4. O bloco 'finally' é sempre executado antes do bloco 'catch', mesmo que uma exceção não seja lançada ou apanhada.
-5. É possível criar exceções customizadas.
-6. O *statement* 'using' é usado para gerir recursos apropriadamente.
+1. Falso, métodos lançam exceções quando ocorrem erros que não sabem resolver
+2. Falso, o bloco try é so usado para um codigo potencialmente perigoso colocado dentro de um bloco try.
+3. Verdadeiro, o block catch tem sempre de vir depois do block try.
+4. Falso, o bloco finally é sempre usado depois do bloco catch com ou sem exceção.
+5. Verdadeiro, se nenhuma das exceções existentes for adequada para um problema podem-se criar exceções personalizadas.
+6. Falso, serve para manter recurso aberto apenas enquanto está a ser usado.
 
 ## Exercício 2 - Para cada afirmação sobre manipulação de *streams* em C#, indica se é **Verdadeira** ou **Falsa**. Justifica a tua resposta. (4v)
 
-1. *Streams* são unidirecionais.
-2. As classes StreamReader/StreamWriter são usadas para ler/escrever caracteres de/para uma *stream* em qualquer formato.
-3. Uma stream pode ser fechada de forma explícita ou implícita.
-4. A classe 'GZipStream' é usada tanto para comprimir como descomprimir *streams* de dados.
+1. Verdadeiro, porque so se pode fazer uma coisa de cada vez.
+2. Verdadeiro TextReader e TextWriter: adaptadores para texto que leem/escrevem de/para streams/strings
+3. falso
+4. Verdadeira.
 
 ## Exercício 3 - Escreve o código necessário para criar um programa em C# de acordo com as seguintes instruções: (10v)
 
